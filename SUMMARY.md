@@ -6,3 +6,7 @@
 
 * [conditional ternary operator](javascript/ternary-operator.md)
 
+---
+
+* [index](untitled.md)
+
