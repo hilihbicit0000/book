@@ -1,4 +1,6 @@
-# index
+# ujicoba
+
+Title : conditional ternary operator CSS :style.css
 
 **Definisi :** operator yang menggunakan 2 expresi \( kondisi menentukan expresi mana yang akan di gunakan\) dan alternatif dari kondisi if else
 
