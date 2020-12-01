@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [conditional ternary operator](ternary-operator.md)
+
+## javascript
+
+* [conditional ternary operator](javascript/ternary-operator.md)
 
