@@ -8,5 +8,5 @@
 
 ---
 
-* [ujicoba](untitled.md)
+* [conditional ternary operator - 2](untitled.md)
 
